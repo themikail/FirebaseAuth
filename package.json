@@ -1,6 +1,5 @@
 {
   "name": "firebaseauth",
-  "homepage": "http://themikail.github.io/limon",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
